@@ -10,7 +10,7 @@ In addition to my backend expertise, I also enjoy working on frontend technologi
 - Frontend Development
 - Python Programming
 - Web Development Technologies
-- Continuous Integration/Continuous Deployment (CI/CD)
+- Continuous Integration/Continuous Delivery (CI/CD)
 
 🌱 **I'm currently learning:**
 - Advanced Java & SpringBoot techniques
@@ -19,11 +19,6 @@ In addition to my backend expertise, I also enjoy working on frontend technologi
 
 💼 **Professional Experience:**
 I am gaining hands-on experience by working on real projects at United Internet AG, with a focus on Java, Spring Boot, and GitLab CI/CD. My studies and work provide a balanced mix of theory and practical application, allowing me to continuously grow as a developer.
-
-💞️ **I'm looking to collaborate on:**
-- Open-source Java and SpringBoot projects
-- Python-based automation or data analysis tools
-- Frontend projects involving HTML, CSS, and JavaScript
 
 📫 **How to reach me:**
 - Email: [contact@adrianschoen.dev](mailto:contact@adrianschoen.dev)
