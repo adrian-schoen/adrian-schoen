@@ -1,7 +1,7 @@
 ### Hi there, I'm Adrian Schön 👋
 
 👨‍💻 **About Me:**
-I'm currently in the second semester of my dual study programme in Computer Science, studying in cooperation with United Internet AG and DHBW Karlsruhe. My professional expertise lies in backend development, where I specialize in Java and SpringBoot to build robust and scalable applications. I have a strong passion for writing clean code, optimizing performance, and implementing industry best practices to deliver high-quality software solutions.
+I'm currently in the third semester of my dual study programme in Computer Science, studying in cooperation with United Internet AG and DHBW Karlsruhe. My professional expertise lies in backend development, where I specialize in Java and SpringBoot to build robust and scalable applications. I have a strong passion for writing clean code, optimizing performance, and implementing industry best practices to deliver high-quality software solutions.
 
 While backend development is my primary focus, I also dabble in frontend development as a hobby. I enjoy designing websites and web applications using HTML, CSS, and JavaScript, and this website, [adrianschoen.dev](https://adrianschoen.dev), is a reflection of my work in this area.
 
